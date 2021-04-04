@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:13:01:42 +0100] "GET /LibraryManager/dashboard HTTP/1.1" 200 6491 http-bio-8080-exec-1 1737
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:13:01:43 +0100] "GET /LibraryManager/membre_add HTTP/1.1" 200 4839 http-bio-8080-exec-3 77
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:13:01:44 +0100] "GET /LibraryManager/membre_list HTTP/1.1" 200 11046 http-bio-8080-exec-4 169
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:13:01:44 +0100] "GET /LibraryManager/livre_add HTTP/1.1" 200 4447 http-bio-8080-exec-5 75
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:13:01:45 +0100] "GET /LibraryManager/emprunt_return HTTP/1.1" 200 5336 http-bio-8080-exec-6 161
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:13:01:45 +0100] "GET /LibraryManager/emprunt_list HTTP/1.1" 200 5027 http-bio-8080-exec-7 120
